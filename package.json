@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "amazon-cognito-identity-js": "^5.2.3",
+    "aws-xray-sdk": "^3.3.4"
+  }
+}
